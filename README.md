@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Felidusjesu
-- 👀 I’m interested in ...hacking
+- 👋 Hi, I’m @SesuFeldus
+- 👀 new innovations
 - 🌱 I’m currently learning ...github
-- 💞️ I’m looking to collaborate on ...
+- 💞️ mendix developer!!!
 - 📫 How to reach me ...feli56111@gmail.com
 - 
 
